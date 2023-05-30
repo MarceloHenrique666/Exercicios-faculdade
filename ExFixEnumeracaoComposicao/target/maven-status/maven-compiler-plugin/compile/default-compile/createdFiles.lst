@@ -1,0 +1,6 @@
+enums\OrderStatus.class
+model\entites\Product.class
+model\entites\Client.class
+model\entites\Order.class
+application\Program.class
+model\entites\OrderItem.class
